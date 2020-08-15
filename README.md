@@ -1,3 +1,4 @@
 # music-study
 
-fl学习项目存放
+乐理知识学习笔记
+.flp文件可用fl stuido打开
